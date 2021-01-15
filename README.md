@@ -1,4 +1,5 @@
-# pokemon-cards-Vue
+# pokemon-cards-Vue 
+![alt text](https://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712)
 
 ### Build setup
 
