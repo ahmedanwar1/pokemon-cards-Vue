@@ -7,8 +7,8 @@
 
 ### Build setup 
 
-```
 ![alt text](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0027.gif)
+```
 
 # Install dependencies
 
