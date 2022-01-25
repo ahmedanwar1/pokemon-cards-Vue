@@ -1,19 +1,20 @@
-# myrouterapp
+# pokemon-cards-Vue 
+![alt text](https://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712)
 
-## Project setup
-```
-npm install
-```
+### Build setup
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
+# Install dependencies
 
-### Compiles and minifies for production
-```
-npm run build
-```
+$npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Install Axios
+
+$npm install axios
+
+
+# serve with hot reload at localhost:8080
+
+$npm run serve
+```
